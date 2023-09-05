@@ -17,7 +17,10 @@ A job Form application where user submit there information for job Interview
 ## Installation
 
 - clone the repository
-`git clone git@github.com:olawuwo-abideen/Jobformapp.git`
+  ```sh
+git clone git@github.com:olawuwo-abideen/Jobformapp.git
+```	
+``
 - navigate to the folder
 `cd Jobformapp.git`
 
