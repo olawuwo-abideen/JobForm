@@ -39,7 +39,7 @@ This will start the app and set it up to listen for incoming connections on port
 
 ```sh
 
-[npm start](http://localhost:3000/)
+http://localhost:3000
 
 ```
 
