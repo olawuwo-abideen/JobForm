@@ -35,8 +35,15 @@ After doing an `npm install` enter the following `npm start ` command:
 npm start
 
 ```
-This will start the app and set it up to listen for incoming connections on port 3000. Open up your browser of choice and go to the url [http://localhost:3000/
-(http://localhost:3000/) to start using the app itself.
+This will start the app and set it up to listen for incoming connections on port 3000. Open up your browser of choice and go to the url 
+
+```sh
+
+[npm start](http://localhost:3000/)
+
+```
+
+to start using the app.
  
 ## 🤝 Contributing
 
