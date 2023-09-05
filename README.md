@@ -17,12 +17,17 @@ A job Form application where user submit there information for job Interview
 ## Installation
 
 - clone the repository
+
   ```sh
 git clone git@github.com:olawuwo-abideen/Jobformapp.git
-```	
-``
+```
+
 - navigate to the folder
-`cd Jobformapp.git`
+
+ ```sh
+cd Jobformapp.git
+```
+
 
 ## Run the app in development mode
 Open a terminal window session, or the equivalent on your machine, and enter the following command to install all the Node modules needed to run the app:
