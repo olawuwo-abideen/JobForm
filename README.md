@@ -18,13 +18,13 @@ A job Form application where user submit there information for job Interview
 
 - clone the repository
 
-  ```sh
+```sh
 git clone git@github.com:olawuwo-abideen/Jobformapp.git
 ```
 
 - navigate to the folder
 
- ```sh
+```sh
 cd Jobformapp.git
 ```
 
